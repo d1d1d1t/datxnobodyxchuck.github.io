@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>datxnobodyxchuck</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.content {
+	background-attachment: scroll;
+	background-image:url(../images/1eefc5567dc5c55f67ef6849b9235582.jpg);
+
+
+	
+}
+</style>
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="EditRegion1" -->
+
+<!--wrapper-->
+<div class="wrapper" style="width:100%;">
+
+  <!--header-->
+  <div>
+  
+    <!--logo-->
+  <!--<div class="logo" style="position:relative;float:right;width:38%;padding-left:5px;float:left;"><img src="images/DnClogo[web].png" style="width:100%;height:280px;"/></div>-->
+   
+    <!--description-->
+    <div class="description" style="position:relative;float:right;width:100%;padding-left:5px;float:right;border-bottom:medium solid rgba(102,102,102,1);"><img src="../images/dncmainimage.png" style="position:relative;width:100%;height:300px;float:right;"/></div>
+ 
+    
+    <!--top-nav-->
+    <div class="topnav" style="position:relative;float:left;width:100%;height:auto;font-size:36px;background:rgba(0,0,0,1);border-top: thick solid rgbaborder-bottom:medium solid rgba(51,204,255,.4);font-family:Arial, Helvetica, sans-serif;text-decoration:none;text-align:right;">
+    <a  class="tnav" href="#" style="position:relative;float:left;color:rgba(255,255,255,1);text-decoration:none;">bio</a>
+    <a class="tnav" href="#" style="position:relative;float:left;color:rgba(255,255,255,1);text-decoration:none;margin-right:100px;margin-left:100px;">about the music</a>
+    <a class="tnav" href="#" style="position:relative;float:left;color:rgba(255,255,255,1);text-decoration:none;">community events</a>
+    
+    
+    </div>
+  </div>
+  
+  <!--content-->
+  <div class="content" style="position:relative;float:left;width:100%;height:auto;overflow:hidden;padding-bottom:20px;">
+  
+ 
+  <div class="sidenavCont" style="position:relative;float:right;width:30%;height:900px;margin-right:60px;background:rgba(51,51,51,1);margin-top:20px;border-radius:20px;box-shadow:inset 0px 0px 1px 3px rgba(0,0,0,.5);">
+  
+  <div class="sidenav" style="position:relative;width:100%;height:auto;background:rgba(0,0,0,1);"><p class="btitle" style="position:relative;background:rgba(102,102,102,1);font-size:24px;font-weight:lighter;color:rgba(0,0,0,1);font-family:Arial, Helvetica, sans-serif;">find DnC on social media!</p>
+  
+  <img class="social" src="../images/fb-blk.png" style="position:relative;width:80px;margin-left:30px;float:left;top:-5px;"/>
+   <img class="social" src="../images/snd-blk.png" style="position:relative;width:80px;float:left;top:-5px;margin-right:20px;margin-left:20px;"/>
+    <img class="social" src="../images/tw-blk.png" style="position:relative;width:80px;top:-5px;"/>
+  
+  </div>
+  <div class="audioPlayer" style="position:relative;width:100%;height:300px;">
+  <p class="btitle" style="position:relative;background:rgba(102,102,102,1);font-size:24px;font-weight:lighter;color:rgba(0,0,0,1);font-family:Arial, Helvetica, sans-serif;">audio player</p>
+  
+  
+  <div class="audiointerface" style="position:relative;width:100%;height:auto;background:rgba(102,102,102,1);">
+  <div id="trackinfo" style="position:relative;background:rgba(0,0,0,1);width:100%;height:40px;"></div>
+  
+  <div id="seeker-bk" style="position:relative;background:rgba(153,153,153,1);width:100%;height:20px;margin-bottom:10px;">
+  
+  <div id="seeker-fg" style="position:relative;background:rgba(20%,80%,100%,1);width:100%;height:13px;top:2px;"></div>
+  </div>
+  <div id="prev" style="position:relative;width:40px;height:40px;float:left;margin-left:20px;margin-top:30px;"><img src="../images/cmop-openactionbtn.png" style="width:100%;height:100%;"/></div>
+  <div id="playpause" style="position:relative;width:80px;height:80px;float:left;margin-left:90px;margin-top:20px;"><img src="../images/playbtn.png" style="width:100%;height:100%;"/></div>
+  <div id="next" style="position:relative;width:40px;height:40px;float:right;margin-right:20px;margin-top:30px;"><img src="../images/cmop-openactionbtn(rev).png" style="width:100%;height:100%;"/></div>
+   </div>
+   <div id="filler" style="width:100%;height:40%;background:rgba(0,0,0,1);color:white;">Audio player coming soon.<br />Video player coming once we get footage.</div>
+   
+   
+   
+  </div>
+  
+  <div class="calendar">
+      <p class="btitle" style="position:relative;background:rgba(102,102,102,1);font-size:24px;font-weight:lighter;text-shadow:0px 0px 1px rgba(255,255,255,1);color:rgba(0,0,0,1);font-family:Arial, Helvetica, sans-serif;">calendar</p>
+        
+     <p class="event-list" style="color:white;background:rgba(0,0,0,1);">
+     Your events, performances and engagements go here.
+     Gotta fill this up ASAP.
+     
+     </p>
+      
+      
+      </div>
+  
+  </div>
+  
+   <!--body1(bio)-->
+    <div class="bodyCont" style="position:relative;width:750px;height:auto;float:left;margin-left:60px;background:rgba(0,0,0,1);margin-top:20px;border-radius:20px;box-shadow: 0px 0px 1px 3px rgba(0,0,0,.6);">
+    
+    <div class="body1" style="position:relative;width:100%;height:autoS;float:left;color:white;font-family:Arial, Helvetica, sans-serif;font-size:100%;">
+   
+    <p class="btitle" style="position:relative;background:rgba(102,102,102,1);font-size:24px;font-weight:lighter;color:rgba(0,0,0,1);font-family:Arial, Helvetica, sans-serif;margin:none;">bio</p>
+    
+    <p style="position:absolute;width:100%;height:500px;z-index:10;padding-top:200px;text-align:center;"> This is where the biographical content for DnC goes. It will contain the following:
+    
+   <br />
+   <br />
+   <br />
+   <br /> 
+     <br />
+   <br />
+   <br />
+   <br /> 
+   1.	Artist logo[coverd]
+<br />2.	Name of the Artist
+<br />3.	Government name and what you do 
+<br />4.	What kind of music you play (DO NOT and also NEVER compare yourself to another artist!!!)
+<br />5.	Where to find your music: PureVolume, ReverbNation, Bandcamp, SoundCloud, etc.
+<br />6.	Where you are from
+<br />7.	Your age
+<br />8.	List of press accomplishments (if you have any quotes)
+<br />9.	How many plays, followers, likes, subscribers and video views you have on Twitter, Facebook and YouTube
+<br />10.	A brief description of what your music is about…no more than 30 words
+<br />11.	Contact information
+<br />12.	Any equipment or product endorsements
+<br />13.	How many shows or tours you have done
+<br />14.	If you sold large quantities of song downloads or EPs, mention it
+<br />15.	If you have/had radio play, mention where and who
+<br />16.	What larger bands you have opened for. Keep it as brief and to the point as possible.
+<br />17.	What your current project is
+<br />18.	What your main influences in music are/ what inspires you.
+</p>
+    
+    <div class="body1pic" style="position:relative;width:100%;height:auto;"><img src="../images/DnCb&amp;w.png" style="width:100%;height:auto;background:rgba(0,0,0,1);" /></div> 
+    
+   
+    
+    </div>
+    
+  
+   
+    
+    <!--body2(about-the-music)-->
+    <div class="body2" style="position:relative;width:100%;height:auto;float:left;margin-top:10px;margin-bottom:40px;color:white;font-family:Arial, Helvetica, sans-serif;font-size:100%;">
+    <p class="btitle" style="position:relative;background:rgba(102,102,102,1);font-size:24px;font-weight:lighter;color:rgba(0,0,0,1);font-family:Arial, Helvetica, sans-serif;">about the music</p>
+    
+    <div class="body2pic" style="position:relative;width:100%;height:auto;color:red;font-family:'Trebuchet MS', Arial, Helvetica, sans-serif;font-size:80px;font-weight:bolder;background:rgba(51,51,51,.7);text-shadow:0.5px 0.2px 4px rgba(153,0,0,.8);">phukdatlabel
+    <br />
+</div>
+    <div class="fPh" style="position:relative;color:rgba(102,102,102,1);font-size:40px;text-align:center;float:right;font-family:'Lucida Console', Monaco, monospace;float:left;top:-30px;">
+    <p style="position:relative;float:left;width:auto;margin-right:2px;">f</p><p style="position:relative;float:left;width:auto; -moz-transform:scale(-1, -1);-o-transform: scale(-1, -1);-webkit-transform: scale(-1, -1);transform: scale(-1, -1);margin-right:2px;">e</p><p style="position:relative;float:left;width:auto;margin-right:2px;">k</p> <p style="position:relative;float:left;width:auto;margin-right:2px;">&#8226;</p> 
+    <p style="position:relative;float:left;width:auto;margin-right:2px;">d</p><p style="position:relative;float:left;width:auto;margin-right:2px;">a</p><p style="position:relative;float:left;width:auto;margin-right:2px;">t</p> <p style="position:relative;float:left;width:auto;margin-right:2px;">&#8226;</p> <p style="position:relative;float:left;width:auto;margin-right:2px;">l</p><p style="position:relative;float:left;width:auto;margin-right:2px;text-decoration:overline;">a</p><p style="position:relative;float:left;width:auto;margin-right:2px;">b</p><p style="position:relative;float:left;width:auto; -moz-transform:scale(-1, -1);-o-transform: scale(-1, -1);-webkit-transform: scale(-1, -1);transform: scale(-1, -1);margin-right:2px;">e</p><p style="position:relative;float:left;width:auto;">l</p></p></div>
+ <div class="phkdDef" style="position:relative;width:100%;height:100%;float:left;background:url(../images/LV-dt-fog.jpg);top:-40px;">
+ 
+ <p style="color:white;">Describe what "phukdatlabel" means, what it stands for.</p>
+ </div>   
+    
+    <img src="../images/DnCb&amp;w2.jpg" style="position:relative;width:100%;height:300px;" />
+    
+    <p style="position:relative;float:left;">
+    This is where you will describe your music:
+    <br />
+    <br />1. What inspires you to write
+    <br />
+    2.Your favorite song your wrote (must be new material) 
+    <br />
+    3. Your "movement" (your statement 'phukdatlabel' in your case)
+    <br />
+    4. The tone of your music<br />
+    5. Your career goals
+    </p>
+    
+    
+    
+    
+     </div>
+   
+    
+    <!--body3(community-events)-->
+    <div class="body3" style="position:relative;width:100%;height:auto;float:left;margin-bottom:20px;color:white;font-family:Arial, Helvetica, sans-serif;font-size:100%;">
+    <p class="btitle" style="position:relative;background:rgba(102,102,102,1);font-size:24px;font-weight:lighter;color:rgba(0,0,0,1);font-family:Arial, Helvetica, sans-serif;">community events</p>
+    In this area, we'll discuss your community involvement. Things like:
+    <br />
+    <br />1. Your involvement in the community
+    <br />2. Your goals for your community
+    <br />3. Your plans to get involved
+    <br />4. Your contact info for any query into your availability for community events
+    <img src="../images/LV-skyline-ENDER.png" style="position:relative;width:100%;height:10%;top:20px;" />
+    </div>
+    
+    </div>
+   
+    
+  </div>
+    
+    <p class="legal" style="position:relative;width:100%;height40px;background:rgba(204,204,204,1);color:rgba(255,255,255,1);float:right;font-family:Arial, Helvetica, sans-serif;text-align:center;">&copy;Copyright datxnobodyxchuck 2017-2019</p>
+    
+
+    
+</div>
+  
+   <!--footer-->
+       <div class="footer" style="position:relative;width:100%;height:240px;color:rgba(255,0,0,1);float:right;background:url(../images/1eefc5567dc5c55f67ef6849b9235582.jpg);">
+       
+       <p style="position:relative;width:100%;height:40px;background:rgba(0%,0%,0%,1);">#phukdatlabel<p class="designedby" style="position:relative;width:100%;height:60px;font-family:Arial, Helvetica, sans-serif;text-align:center;color:white;top:22px;border-top:thin solid rgba(102,102,102,1);"> designed by:<img src="../images/d1nero-profile-logo(web).png" style="position:relative;height:60px;width:160px;margin-left:10px;top:15px;"/></p></p>
+       </div>
+</div>
+
+<!-- TemplateEndEditable -->
+</body>
+</html>
