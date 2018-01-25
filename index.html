@@ -18,29 +18,29 @@
 </style>
 </head>
 
-<body style="color:white;background:url(images/1eefc5567dc5c55f67ef6849b9235582.jpg);">
+<body style="color:white;background:url(images/1eefc5567dc5c55f67ef6849b9235582.jpg);font-family:Arial, Helvetica, sans-serif;">
 <!-- TemplateBeginEditable name="EditRegion1" -->
 
 <!--wrapper-->
 <div class="wrapper" style="height:auto;background:url(images/1eefc5567dc5c55f67ef6849b9235582.jpg);">
-<div class="header" style="height:auto;width:100%;">
-<img src="images/dncmainimage.png" height="400" width="100%"/>
+<div class="header" style="height:auto;width:100%;float:right;">
+<img style="border-radius:50%;float:right;margin-right:1%;" src="images/7b4d2cd7-9082-4ab1-9349-eded8db3ddd4[49].jpg" height="400" width="400"/>
 </div>
 
 <div class="topnav" style="height:40px;width:100%;color:white;text-decoration:none;">
-<a href="#" style="float:right;margin-right:100px;color:white;text-decoration:none;">projects</a>
-<a href="#" style="float:right;margin-right:100px;color:white;text-decoration:none;">gallery</a>
-<a href="#" style="float:right;margin-right:100px;color:white;text-decoration:none;">bio</a>
+<a class="tn" href="#" style="float:right;margin-right:100px;color:white;text-decoration:none;">projects</a>
+<a class="tn" href="#" style="float:right;margin-right:100px;color:white;text-decoration:none;">gallery</a>
+<a class="tn" href="#" style="float:right;margin-right:100px;color:white;text-decoration:none;">bio</a>
 
 
 </div>
 <div class="contentwrp" style="height:auto;width:100%;">
 
-<div class="main" style="position:relative;float:left;width:60%;height:auto;background:rgba(0,0,0,.5);margin-left:20px;">
+<div class="main" style="position:relative;float:left;width:60%;height:auto;background:rgba(0,0,0,.5);margin-left:20px;margin-top:1.5%;">
 <div class="bio" style="width:auto;height:auto;margin-bottom:20px;"><h1>Bio</h1>
 <br/>
 
-<img src="images/DnCb&w.png" width="100%"/>
+<img src="images/DnCb&amp;w.png" width="100%"/>
 
 ORIGINS
 <br /><br />DNC was born (June 16 1991) and developed in the streets of Las Vegas NV.
@@ -65,7 +65,7 @@ takes on all aspects of today's struggle: failure and success, the definition of
 <br />
 fek•dat•label
 
-<img src="images/DnCb&w2.jpg" height="300" width="100%"/>
+<img src="images/DnCb&amp;w2.jpg" height="300" width="100%"/>
 
 <br />WHAT PHUKDAT LABEL MEANS:
 <br /><br />"Phuk dat label (performers have understanding knowledge don't allow the Label)" 
@@ -107,12 +107,7 @@ In his own words, his style is categorized as "Revolutionary Flow, where hip-hop
 </div>
 
 <div class="sidebar" style="position:relative;float:right;width:35%;height:auto;background:rgba(0,0,0,.5);">
-<div class="social" style="margin-bottom:20px;"><h1>find DnC on:</h1>
-<br />
-This is where DnC's social media links will go:
-<br />
-tw, fb, li, sc, g+, etc.
-</div>
+
 <div class ="mediaplayer" style="margin-bottom:20px;"><h1>audio player</h1>
 <br />
 <div class="player" style="width:400px;height:70px;margin-left:20px;border:thin solid rgba(0,0,0,1);background:rgba(0,0,0,.7);">
@@ -137,8 +132,8 @@ native formats: mp3, ogg, wav
 </div>
 <div class="calendar" style="margin-bottom:20px;"><h1>calendar</h1>
 <br />
-
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showCalendars=0&amp;height=460&amp;wkst=2&amp;hl=en&amp;bgcolor=%23ffffff&amp;src=sales.cashmeout%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border:solid 1px #777;background:rgba(51,51,51,1);" width="460" height="460" frameborder="0" scrolling="no"></iframe>
+<h1 style="color:red;font-size:40px;text-align:center;">Coming Soon!!</h1>
+<!--<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showCalendars=0&amp;height=460&amp;wkst=2&amp;hl=en&amp;bgcolor=%23ffffff&amp;src=sales.cashmeout%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border:solid 1px #777;background:rgba(51,51,51,1);" width="460" height="460" frameborder="0" scrolling="no"></iframe>
 
 This is where we'll be placing information regarding shows, all engagements, and important dates
 <br />
@@ -149,14 +144,69 @@ This will come once you have material
 This is where we'll place your booking info:
 <br />
 Phone number, email</div>
+
+</div>-->
+</div>
+
+<div class="social" style="margin-top:40px;margin-bottom:20px;"><h1>find DnC on:</h1>
+<br />
+This is where DnC's social media links will go:
+<br />
+tw, fb, li, sc, g+, etc.
 </div>
 
 </div>
+
+
+
 <div class="footer" style="position:relative;width:100%;height:auto;float:right;">
 <div class="Legal">Copyright 2017; DnC;datxnobodyxchuck;CMOP;designed by d1nero</div>
 </div>
 
 </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+
+<script>
+function responsiveFn() {
+     width = $( window ).width();
+     
+      
+  // Executing Both width() and height()   
+  $('.wrapper').width(width); 
+ 
+ 
+ if(width <= 480){
+  // Do a custom code here
+    $('.main').css('width','100%');
+	$('.main').css('margin-left','0');
+	$('.sidebar').css('width','100%');
+	
+	$( '.tn').css('margin-right' , '70px');
+
+    }else{
+	$('.main').css('width','50%');
+	$('.main').css('margin-left','');
+		$('.sidebar').css('width','');
+			$( '.tn').css('margin-right' , '100px')
+	
+			
+		
+	}
+			
+ }
+
+  // load() event and resize() event are combined 
+   $(window).ready(responsiveFn).resize(responsiveFn); 
+   
+   
+   
+
+
+
+</script>
+
 
 <!-- TemplateEndEditable -->
 </body>
